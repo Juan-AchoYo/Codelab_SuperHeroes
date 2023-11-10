@@ -12,7 +12,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.dam.codelab_superheroes.ui.theme.SuperheroesTheme
 
-// TODO: Add animations to show and hide the description
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
